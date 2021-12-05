@@ -1,13 +1,15 @@
 
 #  Readme-Generator
 
-cc
 Built With:
 
 * HTML
 * CSS
 * Javascript
 * Node.js
+* axios
+* inquirer
+* util
 
 ## Screenshots
 ![enter image description here](https://raw.githubusercontent.com/nadiaalamgir21/readme-generator/main/assets/images/readme-generator-1.PNG)
