@@ -11,6 +11,12 @@ Built With:
 * inquirer
 * util
 
+## Steps to install the project
+1. Clone the repo on your system.
+2. run command npm install in the project to install dependencies.
+3. then run command node index.js to run the project.
+
+
 ## Screenshots
 ![enter image description here](https://raw.githubusercontent.com/nadiaalamgir21/readme-generator/main/assets/images/readme-generator-1.PNG)
 
