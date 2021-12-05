@@ -11,6 +11,7 @@ function promptUser(questions) {
     return inquirer.prompt(questions);
 }
 
+// below are the questions that will me asked from the user to better generate a readme.
 const questions = [
     {
         type: "input",
